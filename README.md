@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- <img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp -->
+<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/></a>&nbsp
 <!--
 **zkhshub/zkhshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
