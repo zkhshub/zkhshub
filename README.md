@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=KyungHo%20Zee&fontSize=50" />
-<!-- <img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp -->
+<!-- 배너-->
+### 현재 공부중인 computer vision 개발자입니다.
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -31,6 +32,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zkhshub&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<!-- 배너-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 <!--
 **zkhshub/zkhshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
