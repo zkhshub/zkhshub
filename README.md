@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=KyungHo%20Zee&fontSize=50" />
 <!-- 배너-->
-<h3 align="center">🌱computer vision을 공부중인 취준생입니다.</h3>
+<h3 align="center">🌱computer vision을 공부중입니다.</h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
